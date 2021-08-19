@@ -1,6 +1,8 @@
 ## Welcome to Shao Yuan-Hai's HomePages
 
-### Employment History
+### Bio
+
+Shao Yuan-Hai,
 
 Professor, Hainan University
 
