@@ -2,32 +2,11 @@
 
 ### Employment History
 
-Hainan University, Professor
+Professor, Hainan University
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Yuan-Hai Shao received his B.S. degree in information and computing science in College of Mathematics from Jilin University, the master's degree in applied mathematics, and Ph.D. degree in operations research and management in College of Science from China Agricultural University, China, in 2006, 2008, and 2011, respectively. Currently, he is a Professor at the School of Management,Hainan University. His research interests include support vector machines, nonparallel support vector machines, data mining, machine learning, and optimization methods. He has published over 100 refereed papers on these areas.
 ```
+#### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaoyuanhai/shaoyuanhai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+shaoyuanhai21@163.com
