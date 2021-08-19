@@ -11,5 +11,4 @@ Yuan-Hai Shao received his B.S. degree in information and computing science in C
 
 shaoyuanhai21@163.com
 
-http://github.com 
-[GitHub](http://github.com)
+[Optimal-Group](http://www.optimal-group.org/)
