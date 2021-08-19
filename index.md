@@ -10,3 +10,6 @@ Yuan-Hai Shao received his B.S. degree in information and computing science in C
 #### Contact
 
 shaoyuanhai21@163.com
+
+http://github.com - automatic!
+[GitHub](http://github.com)
